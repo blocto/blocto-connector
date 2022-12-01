@@ -1,6 +1,6 @@
 {
   "name": "@blocto/blocto-connector",
-  "version": "0.2.2",
+  "version": "0.3.0",
   "description": "A Blocto SDK connector for web3-react",
   "main": "dist/index.js",
   "module": "dist/blocto-connector.esm.js",
